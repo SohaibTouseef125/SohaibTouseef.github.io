@@ -62,7 +62,7 @@
 
 <a href = "https://www.linkedin.com/in/sohaib-touseef-12a7b628a/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://www.facebook.com/SohaibTouseef"><img src="https://img.icons8.com/color/48/000000/facebook.png"/></a>
-<a href = "https://www.instagram.com/sohaibatouseef/"><img src="https://icons8.com/icon/32323/instagram"/></a>
+<a href = "https://www.instagram.com/sohaibatouseef/"><img src="https://img.icons8.com/?size=100&id=32323&format=png&color=000000"/></a>
 <a href = "https://www.npmjs.com/settings/m6sohaib/packages"><img src="https://icons8.com/icon/24895/npm"/></a>
 <a href = "https://linktr.ee/sohaibtouseef#371721449"><img src="https://icons8.com/icon/GfTOMrwiax2M/linktree"/></a>
 
