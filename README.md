@@ -66,7 +66,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SohaibTouseef125&show_icons=true&theme=radical" alt="SohaibTouseef125" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SohaibTouseef125&" alt="SohaibTouseef125" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SohaibTouseef125&theme=radical" alt="SohaibTouseef125" /></p>
 
 <br/>
   
