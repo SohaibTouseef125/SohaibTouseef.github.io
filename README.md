@@ -39,7 +39,7 @@
 <br/>
  
  <p align="center">
-    <a href="https://github.com/Sohaib Touseef">
+    <a href="https://github.com/SohaibTouseef125">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Sohaib Touseef streak" src="https://github-readme-streak-stats.herokuapp.com/?user=SohaibTouseef125&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
@@ -60,15 +60,55 @@
 ## Connect with me:
 <p align="left">
 
-<a href = "[https://linkedin.com/in/aliaftabsheikh](https://www.linkedin.com/in/sohaib-touseef-12a7b628a/)"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "[https://twitter.com/aliaftabsheikh](https://www.linkedin.com/in/sohaib-touseef-12a7b628a/)"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "[https://web.facebook.com/profile.php?id=100014237167705](https://www.linkedin.com/in/sohaib-touseef-12a7b628a/)"><img src="https://img.icons8.com/color/48/000000/facebook.png"/></a>
+<a href = "https://www.linkedin.com/in/sohaib-touseef-12a7b628a/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.facebook.com/SohaibTouseef"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://www.facebook.com/SohaibTouseef"><img src="https://img.icons8.com/color/48/000000/facebook.png"/></a>
 
 </p>
 
 [![committers.top badge](https://user-badge.committers.top/pakistan/SohaibTouseef125.svg)](https://user-badge.committers.top/pakistan/SohaibTouseef125)
 
+![Thanks](https://github.com/user-attachments/assets/3610ef6c-fff3-4e0b-990c-b02a9951dcc5)
+<svg fill="none" viewBox="0 0 800 50" width="800" height="50" xmlns="http://www.w3.org/2000/svg">
+	<foreignObject width="100%" height="100%">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<style>
+        .marquee {
+          height: 50px;	
+          overflow: hidden;
+          position: relative;
+        }
+        .marquee strong {
+          font-family: "Comic Sans", "Comic Sans MS", Chalkboard, ChalkboardSE-Regular, "Marker Felt", Purisa, "URW Chancery L", cursive, sans-serif !important;
+          color: #68de6d;
+          position: absolute;
+          font-size: 1.2em;
+          width: 100%;
+          height: 100%;
+          margin: 0;
+          line-height: 50px;
+          text-align: center;
 
+          transform:translateX(100%);
+
+          animation: marquee 7s linear infinite;
+        }
+
+        @keyframes marquee {
+          0%   { 
+            transform: translateX(100%); 		
+          }
+          100% { 
+            transform: translateX(-80%); 
+          }
+        }
+      </style>
+      <div class="marquee">
+        <strong>Thank You so much for visiting my Github Profile!</strong>
+      </div>
+		</div>
+	</foreignObject>
+</svg>
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=SohaibTouseef125">
