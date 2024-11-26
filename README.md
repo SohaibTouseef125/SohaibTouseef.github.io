@@ -65,7 +65,8 @@
 <a href = "https://www.facebook.com/SohaibTouseef"><img src="https://img.icons8.com/color/48/000000/facebook.png"/></a>
 
 </p>
-[![committers.top badge](https://user-badge.committers.top/pakistan/SohaibTouseef125.svg)](https://user-badge.committers.top/pakistan/SohaibTouseef125)
+
+[committers.top badge](https://user-badge.committers.top/pakistan/SohaibTouseef125.svghttps://user-badge.committers.top/pakistan/SohaibTouseef125)]
 
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
@@ -74,46 +75,3 @@
 <a href="https://github.com/SohaibTouseef125?tab=followers"><img src="https://img.shields.io/github/followers/SohaibTouseef125?label=Followers&style=social" alt="GitHub Badge"></a>
 
 
- <br/>
-![Thanks](https://github.com/user-attachments/assets/8288bf25-54f9-4acb-a2f3-94b4b3bc0023)<svg fill="none" viewBox="0 0 800 50" width="800" height="50" xmlns="http://www.w3.org/2000/svg">
-	<foreignObject width="100%" height="100%">
-		<div xmlns="http://www.w3.org/1999/xhtml">
-			<style>
-        .marquee {
-          height: 50px;	
-          overflow: hidden;
-          position: relative;
-        }
-        .marquee strong {
-          font-family: "Comic Sans", "Comic Sans MS", Chalkboard, ChalkboardSE-Regular, "Marker Felt", Purisa, "URW Chancery L", cursive, sans-serif !important;
-          color: #68de6d;
-          position: absolute;
-          font-size: 1.2em;
-          width: 100%;
-          height: 100%;
-          margin: 0;
-          line-height: 50px;
-          text-align: center;
-
-          transform:translateX(100%);
-
-          animation: marquee 7s linear infinite;
-        }
-
-        @keyframes marquee {
-          0%   { 
-            transform: translateX(100%); 		
-          }
-          100% { 
-            transform: translateX(-80%); 
-          }
-        }
-      </style>
-      <div class="marquee">
-        <strong>Thank You so much for visiting my Github Profile!</strong>
-      </div>
-		</div>
-	</foreignObject>
-</svg>
-
- <img align='center'  height="70" alt="Thanks" width="100%" src="./Thanks.svg"/>  
