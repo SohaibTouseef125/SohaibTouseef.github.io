@@ -89,25 +89,8 @@
           line-height: 50px;
           text-align: center;
 
-          transform:translateX(100%);
+     
 
-          animation: marquee 7s linear infinite;
-        }
-
-        @keyframes marquee {
-          0%   { 
-            transform: translateX(100%); 		
-          }
-          100% { 
-            transform: translateX(-80%); 
-          }
-        }
-      </style>
-      <div class="marquee">
-        <strong>Thank You so much for visiting my Github Profile!</strong>
-      </div>
-		</div>
-	</foreignObject>
 </svg>
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
