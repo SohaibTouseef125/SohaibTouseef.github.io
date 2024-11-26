@@ -65,15 +65,13 @@
 <a href = "https://www.facebook.com/SohaibTouseef"><img src="https://img.icons8.com/color/48/000000/facebook.png"/></a>
 
 </p>
-
-[![committers.top badge](https://user-badge.committers.top/pakistan/SohaibTouseef125.svg)](https://user-badge.committers.top/pakistan/SohaibTouseef125)
-
+[![committers.top badge](https://user-badge.committers.top/pakistan/aliaftabsheikh.svg)](https://user-badge.committers.top/pakistan/SohaibTouseef125)
 
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=SohaibTouseef125">
 </a>
-<a href="https://github.com/SohaibTouseef125?tab=followers"><img src="https://img.shields.io/github/followers/SohaibTouseef125?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/SohaibTouseef125?tab=followers"><img src="https://img.shields.io/github/followers/aliaftabsheikh?label=Followers&style=social" alt="GitHub Badge"></a>
 
 
  <br/>
