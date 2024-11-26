@@ -68,30 +68,7 @@
 
 [![committers.top badge](https://user-badge.committers.top/pakistan/SohaibTouseef125.svg)](https://user-badge.committers.top/pakistan/SohaibTouseef125)
 
-![Thanks](https://github.com/user-attachments/assets/3610ef6c-fff3-4e0b-990c-b02a9951dcc5)
-<svg fill="none" viewBox="0 0 800 50" width="800" height="50" xmlns="http://www.w3.org/2000/svg">
-	<foreignObject width="100%" height="100%">
-		<div xmlns="http://www.w3.org/1999/xhtml">
-			<style>
-        .marquee {
-          height: 50px;	
-          overflow: hidden;
-          position: relative;
-        }
-        .marquee strong {
-          font-family: "Comic Sans", "Comic Sans MS", Chalkboard, ChalkboardSE-Regular, "Marker Felt", Purisa, "URW Chancery L", cursive, sans-serif !important;
-          color: #68de6d;
-          position: absolute;
-          font-size: 1.2em;
-          width: 100%;
-          height: 100%;
-          margin: 0;
-          line-height: 50px;
-          text-align: center;
 
-     
-
-</svg>
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=SohaibTouseef125">
