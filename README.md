@@ -41,13 +41,13 @@
  
  <div class"display-flex">
   <h1>Readme-Stats</h1>
-  <a href="https://github.com/SohaibTouseef125"><img alt="Sohaib Touseef Github Stats" src="https://github-readme-stats.vercel.app/api?username=SohaibTouseef125&show_icons=true&theme=radical" /></a>
+  <a href="https://github.com/SohaibTouseef125"><img align="left" alt="Sohaib Touseef Github Stats" src="https://github-readme-stats.vercel.app/api?username=SohaibTouseef125&show_icons=true&theme=radical" /></a>
   <h1>Streak-Stats</h1>
     <a href="https://github.com/SohaibTouseef125">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Sohaib Touseef streak" src="https://github-readme-streak-stats.herokuapp.com/?user=SohaibTouseef125&theme=radical"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats"  alt="Sohaib Touseef streak" src="https://github-readme-streak-stats.herokuapp.com/?user=SohaibTouseef125&theme=radical" align="end"/>
     </a>
   <h1>Top-langs</h1>
-  <a href="https://github.com/SohaibTouseef125"><img alt="Sohaib Touseef Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=SohaibTouseef125&show_icons=true&locale=en&layout=compact&theme=radical" /></a>
+  <a href="https://github.com/SohaibTouseef125"><img alt="Sohaib Touseef Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=SohaibTouseef125&show_icons=true&locale=en&layout=compact&theme=radical" align="center" /></a>
  </div>
   <br/>
   
