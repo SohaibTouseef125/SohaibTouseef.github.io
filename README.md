@@ -78,4 +78,4 @@
 
  <br/>
 
- <img align='center'  height="70" alt="Thanks" width="100%" src="./Thanks.svg"/>  
+ <img align='center'  height="70" alt="Thanks" width="100%" src="./Thanks (1).svg"/>  
