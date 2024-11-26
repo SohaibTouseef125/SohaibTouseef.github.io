@@ -66,12 +66,16 @@
 
 </p>
 
-[committers.top badge](https://user-badge.committers.top/pakistan/SohaibTouseef125.svghttps://user-badge.committers.top/pakistan/SohaibTouseef125)]
+[![committers.top badge](https://user-badge.committers.top/pakistan/aliaftabsheikh.svg)](https://user-badge.committers.top/pakistan/aliaftabsheikh)
+
 
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=SohaibTouseef125">
+    <img src="https://komarev.com/ghpvc/?username=aliaftabsheikh">
 </a>
-<a href="https://github.com/SohaibTouseef125?tab=followers"><img src="https://img.shields.io/github/followers/SohaibTouseef125?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/aliaftabsheikh?tab=followers"><img src="https://img.shields.io/github/followers/aliaftabsheikh?label=Followers&style=social" alt="GitHub Badge"></a>
 
 
+ <br/>
+
+ <img align='center'  height="70" alt="Thanks" width="100%" src="./Thanks.svg"/>  
