@@ -88,7 +88,7 @@
 
 
 ## ❤ Views and Followers
-<a href="https://github.com/SohaibTouseef125?tab=following">
+<a href="https://github.com/SohaibTouseef125">
     <img src="https://komarev.com/ghpvc/?username=SohaibTouseef125">
 </a>
 <a href="https://github.com/SohaibTouseef125?tab=following"><img src="https://img.shields.io/github/followers/SohaibTouseef125?label=Followers&style=social" alt="GitHub Badge"></a>
