@@ -43,7 +43,7 @@
   <h1>Readme-Stats</h1>
   <a href="https://github.com/SohaibTouseef125"><img  alt="Sohaib Touseef Github Stats" src="https://github-readme-stats.vercel.app/api?username=SohaibTouseef125&show_icons=true&theme=radical" /></a>
   <h1>Top-langs</h1>
-  <a href="https://github.com/SohaibTouseef125"><img alt="Sohaib Touseef Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=SohaibTouseef125&show_icons=true&locale=en&layout=compact&theme=radical"  /></a>
+  <a href="https://github.com/SohaibTouseef125"><img alt="Sohaib Touseef Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=SohaibTouseef125&theme=transparent&hide_border=true&title_color=FEFE5B&text_color=ffffff&icon_color=FEFE5B&text_bold=false"  /></a>
    <br/>
  
   <h1>Streak-Stats</h1>
