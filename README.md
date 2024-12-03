@@ -48,7 +48,7 @@
  
   <h1>Streak-Stats</h1>
     <a href="https://github.com/SohaibTouseef125">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats"  alt="Sohaib Touseef streak" src="https://github-readme-streak-stats.herokuapp.com/?user=SohaibTouseef125&theme=radical"/>
+        <img title="🔥Get streak stats for your profile at git.io/streak-stats"  alt="Sohaib Touseef streak" src="https://github-readme-streak-stats.herokuapp.com/?user=SohaibTouseef125&theme=radical"/>
     </a>
      <br/>
   
